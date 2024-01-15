@@ -1,2 +1,2 @@
 # footburn
-A variant of the Zenburn theme inspired by foot terminal v1.13
+A variant of the Zenburn theme inspired by [foot](https://codeberg.org/dnkl/foot) v1.13
