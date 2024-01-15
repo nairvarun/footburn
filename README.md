@@ -1,5 +1,5 @@
 # footburn
-A variant of the Zenburn theme inspired by [foot](https://codeberg.org/dnkl/foot) v1.13
+A variant of the Zenburn theme inspired by [foot v1.13.1](https://codeberg.org/dnkl/foot/src/tag/1.13.1) for the foot terminal.
 
 ## Usage
 ### Clone Repository
