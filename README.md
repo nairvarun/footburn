@@ -12,7 +12,7 @@ make install
 ```
 ### Set theme
 This theme is installed at `/usr/share/foot/themes/footburn` \
-To apply a theme, add an include key under `[main]` of your foot config file found at `$HOME/.config/foot/foot.ini`
+To apply this theme, add an include key under `[main]` of your foot config file found at `$HOME/.config/foot/foot.ini`
 ```ini
 [main]
 include=/usr/share/foot/themes/footburn
